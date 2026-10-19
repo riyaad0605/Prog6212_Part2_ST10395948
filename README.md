@@ -113,11 +113,12 @@ GitHub Actions runs on every push and pull request to `main`:
 2. Builds the solution in Release mode
 3. Runs all xUnit tests
 
-![CI Status](CI_SCREENSHOT_PLACEHOLDER)
 
-## Video Demonstration
 
-[VIDEO_LINK_PLACEHOLDER]
+## Video Demonstration  <img width="1587" height="747" alt="Capture" src="https://github.com/user-attachments/assets/7041600f-c979-476b-a2d7-dfc7de37700a" />
+
+
+
 
 
 
