@@ -1,0 +1,30 @@
+## Visual Studio / .NET
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+.vs/
+
+## NuGet
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nupkg
+**/packages/repositories.config
+
+## Build results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## IDE
+*.idea/
+*.vscode/
