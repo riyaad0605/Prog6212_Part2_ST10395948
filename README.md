@@ -106,7 +106,7 @@ dotnet test
 | GET | /api/results/event/{id} | Event results | Authenticated |
 | PUT | /api/results/{id} | Update result | Organiser (owner) |
 
-## CI/CD
+
 
 GitHub Actions runs on every push and pull request to `main`:
 1. Restores NuGet packages
@@ -119,6 +119,6 @@ GitHub Actions runs on every push and pull request to `main`:
 
 [VIDEO_LINK_PLACEHOLDER]
 
-## AI Tools Disclosure
+
 
 GitHub Copilot was used to assist with boilerplate code generation and unit test scaffolding during development. All logic, architecture decisions, and final code were reviewed and validated manually.
